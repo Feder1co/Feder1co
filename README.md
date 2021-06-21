@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Federico.
+- 📖 I'm graduated in Computer Science & Engineering at Politecnico di Milano.
+- 💻 I'm working for a company specialized in home automation and energy sector: S.G.A. Sistema Casa S.r.l.
+- 🏭 This company is in partnership with HERA group -> http://hse.gruppohera.it/
+- 🖥 I know and practice different languages in my every day life. These are the languages I'm used to work with: JS (Node - Next.js), PHP, SQL, Java, C++, Scala, Dart (Flutter).
+- 👀 I’m interested in working on Mobile applications and Web projects.
+- 📫 Linkedin: https://www.linkedin.com/in/federico-l-8a752089
+- 📫 E-mail: fede.lichinchi@gmail.com
